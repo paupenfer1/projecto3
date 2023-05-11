@@ -1,0 +1,38 @@
+{
+    "PlayerEsquivar": {
+        "checkpoints": [
+            {
+                "steps": 499962,
+                "file_path": "results\\Prueba5\\PlayerEsquivar\\PlayerEsquivar-499962.onnx",
+                "reward": -1.0,
+                "creation_time": 1683571686.735297,
+                "auxillary_file_paths": [
+                    "results\\Prueba5\\PlayerEsquivar\\PlayerEsquivar-499962.pt"
+                ]
+            },
+            {
+                "steps": 500026,
+                "file_path": "results\\Prueba5\\PlayerEsquivar\\PlayerEsquivar-500026.onnx",
+                "reward": -1.0,
+                "creation_time": 1683571686.8925343,
+                "auxillary_file_paths": [
+                    "results\\Prueba5\\PlayerEsquivar\\PlayerEsquivar-500026.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500026,
+            "file_path": "results\\Prueba5\\PlayerEsquivar.onnx",
+            "reward": -1.0,
+            "creation_time": 1683571686.8925343,
+            "auxillary_file_paths": [
+                "results\\Prueba5\\PlayerEsquivar\\PlayerEsquivar-500026.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.26.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

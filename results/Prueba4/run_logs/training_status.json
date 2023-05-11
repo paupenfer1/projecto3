@@ -1,0 +1,29 @@
+{
+    "PlayerEsquivar": {
+        "checkpoints": [
+            {
+                "steps": 457464,
+                "file_path": "results\\Prueba4\\PlayerEsquivar\\PlayerEsquivar-457464.onnx",
+                "reward": -1.0,
+                "creation_time": 1683567566.0362086,
+                "auxillary_file_paths": [
+                    "results\\Prueba4\\PlayerEsquivar\\PlayerEsquivar-457464.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 457464,
+            "file_path": "results\\Prueba4\\PlayerEsquivar.onnx",
+            "reward": -1.0,
+            "creation_time": 1683567566.0362086,
+            "auxillary_file_paths": [
+                "results\\Prueba4\\PlayerEsquivar\\PlayerEsquivar-457464.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.26.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
